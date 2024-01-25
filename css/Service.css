@@ -1,0 +1,13 @@
+.Service
+{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+    margin-top: 15px;
+
+}
+.Service-item{
+    background-color: aqua;
+    padding: 10px;
+
+}
